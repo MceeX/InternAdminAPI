@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "bacac893-241a-41f6-bbb9-d128da40eb00": {
+      "ProjectGuid": "bacac893-241a-41f6-bbb9-d128da40eb00",
+      "DisplayName": "InternAdminAPI",
+      "ColorIndex": 0
+    },
+    "9a0f3573-5833-4a19-8b6f-c86af6234a82": {
+      "ProjectGuid": "9a0f3573-5833-4a19-8b6f-c86af6234a82",
+      "DisplayName": "InternAdmin.Data",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

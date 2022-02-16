@@ -1,0 +1,12 @@
+C:\Users\Admin\Dev\DotNet\InternAdminAPI\InternAdmin.Data\bin\Debug\net6.0\InternAdmin.Data.deps.json
+C:\Users\Admin\Dev\DotNet\InternAdminAPI\InternAdmin.Data\bin\Debug\net6.0\InternAdmin.Data.dll
+C:\Users\Admin\Dev\DotNet\InternAdminAPI\InternAdmin.Data\bin\Debug\net6.0\ref\InternAdmin.Data.dll
+C:\Users\Admin\Dev\DotNet\InternAdminAPI\InternAdmin.Data\bin\Debug\net6.0\InternAdmin.Data.pdb
+C:\Users\Admin\Dev\DotNet\InternAdminAPI\InternAdmin.Data\obj\Debug\net6.0\InternAdmin.Data.csproj.AssemblyReference.cache
+C:\Users\Admin\Dev\DotNet\InternAdminAPI\InternAdmin.Data\obj\Debug\net6.0\InternAdmin.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Dev\DotNet\InternAdminAPI\InternAdmin.Data\obj\Debug\net6.0\InternAdmin.Data.AssemblyInfoInputs.cache
+C:\Users\Admin\Dev\DotNet\InternAdminAPI\InternAdmin.Data\obj\Debug\net6.0\InternAdmin.Data.AssemblyInfo.cs
+C:\Users\Admin\Dev\DotNet\InternAdminAPI\InternAdmin.Data\obj\Debug\net6.0\InternAdmin.Data.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Dev\DotNet\InternAdminAPI\InternAdmin.Data\obj\Debug\net6.0\InternAdmin.Data.dll
+C:\Users\Admin\Dev\DotNet\InternAdminAPI\InternAdmin.Data\obj\Debug\net6.0\ref\InternAdmin.Data.dll
+C:\Users\Admin\Dev\DotNet\InternAdminAPI\InternAdmin.Data\obj\Debug\net6.0\InternAdmin.Data.pdb
